@@ -1,5 +1,5 @@
 {
-  "name": "dev-junior-bot",
+  "name": "dev-junior-music-bot",
   "version": "6.0.0",
   "main": "server.js",
   "scripts": {
